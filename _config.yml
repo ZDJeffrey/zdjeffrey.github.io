@@ -15,7 +15,7 @@ footer_text: >
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: MLSys, 一生一芯 # add your own keywords or leave empty
 lang: cn # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: icons/bezier-curve-solid.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://zdjeffrey.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -132,8 +132,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Mystic Mindscapes # blog_name will be displayed in your blog page
+blog_description: Exploring the mystical landscapes of thought and innovation.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
