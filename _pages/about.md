@@ -10,7 +10,7 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><a href='https://cse.sysu.edu.cn/'>Sch. of Comput. Sci. & Eng.</a></p>
+    <p><a href='https://cse.sysu.edu.cn/'>Sch. of Comput. Sci.&Eng.</a></p>
     <p><a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a></p>
     <p>Canton, China</p>
 
