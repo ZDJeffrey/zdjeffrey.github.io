@@ -12,7 +12,7 @@ profile:
   more_info: >
     <p><a href='https://cse.sysu.edu.cn/'>Sch. of Comput. Sci.&Eng.</a></p>
     <p><a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a></p>
-    <p>Canton, China</p>
+    <p>Canton, Guangdong, China</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
