@@ -6,7 +6,7 @@ subtitle: Undergrad
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><a href='https://cse.sysu.edu.cn/'>Sch. of Comput. Sci.&Eng.</a></p>
