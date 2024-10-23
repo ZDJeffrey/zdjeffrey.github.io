@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: >
-  Undergrad
+subtitle: Undergrad
 
 profile:
   align: right
