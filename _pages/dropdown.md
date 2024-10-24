@@ -7,13 +7,10 @@ dropdown: true
 children:
   - title: CV
     permalink: /cv/
-  - title: divider
+  - title: divider # 分隔符
   - title: Projects
     permalink: /projects/
   - title: divider
   - title: Publications
     permalink: /publications/
-  - title: divider
-  - title: Repositories
-    permalink: /repositories/
 ---

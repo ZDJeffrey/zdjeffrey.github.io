@@ -48,7 +48,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 bib_search: true
@@ -300,8 +300,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["formatting", "images", "code", "template"] # these tags will be displayed on the front page of your blog
+display_categories: ["post", "distill"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
